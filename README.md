@@ -1,6 +1,6 @@
 # Hi there, I'm Divyanshu 👋
 
-I'm a developer who enjoys building clean, efficient applications and solving complex logic problems. I'm currently focused on Python development and modern application architecture. 
+I'm a Political Science Grduate who enjoys building clean, efficient applications and solving complex logic problems. I'm currently focused on Python development and modern application architecture. 
 
 ### 🔭 What I'm Working On
 - Building a modern, zero-dependency **Tic-Tac-Toe Engine** using Python and MVC architecture.
@@ -18,14 +18,14 @@ I'm a developer who enjoys building clean, efficient applications and solving co
   <!-- Add more badges here as you learn new tools -->
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 <!-- These dynamically update based on your GitHub activity. Just replace 'rdivyanshu20' if needed -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rdivyanshu20&show_icons=true&theme=tokyonight" alt="rdivyanshu20's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdivyanshu20&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-### 📫 How to Reach Me
+### How to Reach Me
 - **Email:** [rawatdivyanshu08@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/divyanshu-rawat-344981221]
 
