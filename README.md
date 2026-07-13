@@ -1,9 +1,9 @@
-# Hi there, I'm Divyanshu 👋
+# Hi there, I'm Divyanshu !
 
 I'm a Political Science Grduate who enjoys building clean, efficient applications and solving complex logic problems. I'm currently focused on Python development and modern application architecture. 
 
 ### 🔭 What I'm Working On
-- Building a modern, zero-dependency **Tic-Tac-Toe Engine** using Python and MVC architecture.
+- OptiPrice: Dynamic Pricing & Competitor Intelligence Engine
 - Expanding my knowledge in data scraping, automation, and API integration.
 
 ### 🌱 Currently Learning
